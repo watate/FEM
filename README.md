@@ -6,7 +6,10 @@ Thank you for visiting my repository. This project would not have been possible 
 1. Arda
 2. Haritha
 3. Khan
-4. Ozan
+4. Oğuzhan
+
+![Group image](FEM_Code/group.jpeg)
+![Group image with Ozan](FEM_Code/group2.jpg)
 
 # How to run the code
 You can run the GUI for the code with the .mlapp files on MATLAB.
